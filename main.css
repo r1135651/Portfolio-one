@@ -473,6 +473,10 @@ footer a:visited {
 	text-decoration: underline;
 }
 
+footer h2:visited {
+	text-decoration: underline;
+}
+
 footer a:hover {
 	animation: color-titles-footer forwards .5s ease;
 } 
